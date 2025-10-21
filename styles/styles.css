@@ -189,7 +189,7 @@ body {
 }
 
 .task__delete {
-    background: url(./img/Delete.svg);
+    background-image: url(/img/Delete.svg);
     width: 18px;
     height: 18px;
     background-repeat: no-repeat;
@@ -197,11 +197,11 @@ body {
 }
 
 .task__delete:hover {
-    background: url(./img/DeleteHover.svg);
+    background-image: url(/img/DeleteHover.svg);
 }
 
 .task__edit {
-    background: url(./img/Edit.svg);
+    background-image: url(/img/Edit.svg);
     width: 15px;
     height: 15px;
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ body {
 }
 
 .task__edit:hover {
-    background: url(./img/EditHover.svg);
+    background-image: url(/img/EditHover.svg);
 }
 
 
